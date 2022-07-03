@@ -1,5 +1,5 @@
 # AgriculturalApp
-Developed for Digital India Hackathon@ HackerEarth by Students of NIT Hamirpur.
+Developed for Project by Students of Babu Banarasi Das University.
 
 Sample apk can be downloaded from following  [link](https://github.com/sukhbir-singh/AgriculturalApp/blob/master/sample%20apk/Agricultural%20App_1.0.apk).
 
